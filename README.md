@@ -1,2 +1,2 @@
 # data-warehouse-project
-Building a warehouse using postgresql 
+Building a warehouse using postgresql
